@@ -6,6 +6,7 @@ Created on Fri Jan 22 21:22:27 2021
 """
 
 
-Hello World!!
+This repository contains the scripts as prescribed in Assignment 2.
+The "helloworld.py" file contains a script that prints out "hello world" when executed.
+A .gitignore has also been generated.
 
-This is text I typed directly from the browser in GitHub.
